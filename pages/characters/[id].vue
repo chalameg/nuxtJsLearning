@@ -26,7 +26,6 @@
 //      };
 // };
 
-// mongodb+srv://chalameg:#SXU8cD-%NRkSe@cluster0.b27v5.mongodb.net/meetups?retryWrites=true&w=majority
 const route = useRoute();
 
 const query = gql`
