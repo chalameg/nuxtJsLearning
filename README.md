@@ -1,4 +1,19 @@
-# Nuxt 3 Minimal Starter
+# Nuxt 3 Practice project
+
+## components
+## pinia or useState(for small apps) for state management
+## composables
+## layouts ( custom and default route )
+## server (api)
+## modules configuration
+## pages 
+## assets and how to create svg assets as a components
+## nuxt.js content module to create static contents
+## tailwind module
+## plugins
+## middleware
+## useFetch, useAsyncData, useLazyFetch (to call api's)
+
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
@@ -9,9 +24,6 @@ Make sure to install the dependencies:
 ```bash
 # npm
 npm install
-
-# pnpm
-pnpm install
 
 # yarn
 yarn install
@@ -24,9 +36,6 @@ Start the development server on `http://localhost:3000`:
 ```bash
 # npm
 npm run dev
-
-# pnpm
-pnpm run dev
 
 # yarn
 yarn dev
