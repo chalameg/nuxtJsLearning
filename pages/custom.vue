@@ -11,5 +11,10 @@
 </script>
 
 <template>
-    <div class="flex justify-center text-xl">Page to configure custom route!</div>
+    <div>
+        <MysiteHero/>
+        <MysiteFeature/>
+        <MysiteTestimonial/>
+        <MysiteFooter/>
+    </div>
 </template>

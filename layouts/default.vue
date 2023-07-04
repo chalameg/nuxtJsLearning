@@ -1,5 +1,5 @@
 <template>
-    <div class="bg-blue-500">
+    <div class="bg-gray-500">
         <div class="flex gap-2 items-center justify-center text-xl">
             <NuxtLink to="/">Home</NuxtLink>
             <NuxtLink to="/custom">Custom</NuxtLink>
